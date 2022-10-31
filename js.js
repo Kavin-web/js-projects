@@ -3,3 +3,5 @@ const fuck = document.createElement("div")
 fuck.innerText = hello
 const good = document.getElementById("nethraa")
 good.append(fuck)
+
+fuck.style.color = "red";
